@@ -1,1 +1,39 @@
+body{
+background-color: pink;
+background-size: cover;
+    font-family: Arial;
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-color: rgb(251, 189, 194);
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+h3{
+    font-family: Arial;
+    font-size:20px;
+    color: rgb(0, 0, 0);
+}
+
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+}
+
+table{
+    margin:auto;
+    border-collapse:collapse;
+}
+
+th,td {
+    border: 1px, solid rgb(236, 236, 236);
+    padding: 8px;
+}
+th{
+    background-color: rgb(255, 206, 206);
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+}
 
